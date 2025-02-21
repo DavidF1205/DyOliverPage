@@ -37,7 +37,7 @@ img {
   color: #7447ae;
 }
 .pink {
-  color: #ff2a75;
+  color: #d31f6d;
 }
 .blue {
   color: #37a7ff;
@@ -75,7 +75,7 @@ a.menu:hover {
 }
 header.hero h1 {
   font-family: 'Montserrat', sans-serif;
-  font-size: 4.5em;
+  font-size: 4em;
   font-weight: 600;
   line-height: 1.4em;
 }
@@ -171,7 +171,8 @@ h1.heading.pink:after {
   transition: all 0.2s;
 }
 .client-box .client-logo {
-  max-height: 120px;
+  max-height: 360px;
+  border-radius: 5px;
 }
 .client-box h3.title {
   color: #4e4c58;
@@ -435,7 +436,7 @@ ul.main-nav li {
   display: inline-block;
 }
 ul.main-nav li a {
-  color: #fff;
+  color: #d31f6d;
   font-family: 'Montserrat', sans-serif;
   font-size: 14px;
   text-transform: uppercase;
@@ -450,6 +451,15 @@ ul.main-nav.show-it {
   transition-delay: .25s;
 }
 
+.iconsDavid {
+  color: #d31f6d;
+  font-size: 20px;
+  margin-right: 10px;
+}
+
+.iconsDavid :hover {
+  color: #d31f6d;
+}
 
 
 
@@ -544,7 +554,9 @@ ul.main-nav.show-it {
   }
 }
 
-
+.text-pink{
+  color: #d31f6d;
+}
 
 
 
