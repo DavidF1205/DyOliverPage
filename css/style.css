@@ -218,6 +218,7 @@ h1.heading.pink:after {
   display: flex;
   justify-content: center;
   align-items: center;
+  margin-top: -150px;
 }
 
 
