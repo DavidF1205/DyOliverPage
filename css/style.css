@@ -154,6 +154,8 @@ h1.heading.pink:after {
   height: 100%;
   padding: 4em 1em;
 }
+
+
 .swiper-slide {
   font-size: 18px;
   background: #fff;
@@ -170,6 +172,50 @@ h1.heading.pink:after {
   -moz-transition: all 0.2s;
   transition: all 0.2s;
 }
+
+.client-box-insta{
+  background-color: #fff;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.03);
+  padding: 4.5em 2em;
+  width: 100%;
+  max-width: 300px;
+  border-radius: 5px;
+  border: 1px solid #eee;
+  text-align: center;
+  -webkit-transition: all 0.2s;
+  -moz-transition: all 0.2s;
+  transition: all 0.2s;
+
+} 
+
+
+.insta-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px; /* Espaçamento para não ficar colado nas bordas */
+}
+
+.insta-background {
+  background: #fff; /* Ajuste para a cor do fundo */
+  padding: 15px;
+  border-radius: 10px; /* Borda arredondada opcional */
+  width: 100%;
+  max-width: 400px; /* Ajuste conforme necessário */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.instagram-media {
+  width: 100% !important;
+}
+
+
+
+
+
+
 .client-box .client-logo {
   max-height: 360px;
   border-radius: 5px;
@@ -468,6 +514,109 @@ ul.main-nav.show-it {
 
 
 
+.instagram-media {
+  background: #FFF;
+  border: 0;
+  margin: 1px;
+  max-width: 540px;
+  min-width: 326px;
+  padding: 0;
+  width: 99.375%;
+  width: -webkit-calc(100% - 2px);
+  width: calc(100% - 2px);
+}
+
+.instagram-media div {
+  padding: 16px;
+}
+
+.instagram-media a {
+  background: #FFFFFF;
+  line-height: 0;
+  padding: 0 0;
+  text-align: center;
+  text-decoration: none;
+  width: 100%;
+}
+
+.instagram-media .instagram-logo {
+  display: block;
+  height: 50px;
+  margin: 0 auto 12px;
+  width: 50px;
+}
+
+.instagram-media .instagram-logo svg {
+  width: 50px;
+  height: 50px;
+}
+
+.instagram-media .instagram-text {
+  padding-top: 8px;
+  color: #3897f0;
+  font-family: Arial, sans-serif;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 550;
+  line-height: 18px;
+}
+
+.instagram-media .instagram-content {
+  padding: 12.5% 0;
+}
+
+.instagram-media .instagram-user {
+  display: flex;
+  flex-direction: row;
+  margin-bottom: 14px;
+  align-items: center;
+}
+
+.instagram-media .instagram-user div {
+  background-color: #F4F4F4;
+  border-radius: 50%;
+  height: 40px;
+  width: 40px;
+}
+
+.instagram-media .instagram-user-info {
+  margin-left: 14px;
+}
+
+.instagram-media .instagram-user-info div {
+  background-color: #F4F4F4;
+  border-radius: 4px;
+  height: 14px;
+  margin-bottom: 6px;
+}
+
+.instagram-media .instagram-user-info .username {
+  width: 100px;
+}
+
+.instagram-media .instagram-user-info .user-handle {
+  width: 60px;
+}
+
+.instagram-media .instagram-post {
+  padding: 16px;
+  background-color: #F4F4F4;
+  border-radius: 4px;
+}
+
+.insta-post {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #fff; /* Cor do retângulo, ajuste conforme necessário */
+  padding: 20px;
+  border-radius: 10px; /* Arredondamento opcional */
+}
+
+.insta-wrapper {
+  width: 100%;
+  max-width: 500px; /* Ajuste conforme necessário */
+}
 
 
 
