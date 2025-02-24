@@ -205,10 +205,19 @@ h1.heading.pink:after {
   display: flex;
   justify-content: center;
   align-items: center;
+  overflow: hidden;
 }
 
 .instagram-media {
-  width: 100% !important;
+  max-width: 100%;
+  max-height: 90%;
+  transform: scale(0.9);
+}
+
+.meioCoisas{
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 
