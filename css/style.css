@@ -644,8 +644,8 @@ ul.main-nav.show-it {
     font-size: 2em;
   }
   header.hero {
-    text-align: center;
-    padding-bottom: 0;
+    background-position: top center;
+    background-size: cover;
   }
   header.hero h1 {
     font-size: 2em;
