@@ -645,10 +645,15 @@ ul.main-nav.show-it {
     font-size: 2em;
   }
   header.hero {
-     background-position: top center;
-    background-size: cover;
-    padding-bottom: 40px;
-  }
+  background: url(../assets/hero-bg.jpeg) no-repeat center center;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+background-attachment: scroll;
+  color: #fff;
+  padding-bottom: 80px;
+}
 header.hero .hero-text {
     margin-top: 30%;
     margin-bottom: 10%;
