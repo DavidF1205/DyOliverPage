@@ -45,11 +45,12 @@ img {
 
 /* Hero Section */
 header.hero {
-  background: url(../assets/hero-bg.jpeg) no-repeat center center fixed;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
+  background: url(../assets/hero-bg.jpeg) no-repeat center center;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+background-attachment: scroll;
   color: #fff;
   padding-bottom: 80px;
 }
@@ -644,16 +645,27 @@ ul.main-nav.show-it {
     font-size: 2em;
   }
   header.hero {
-    background-position: top center;
+     background-position: top center;
     background-size: cover;
+    padding-bottom: 40px;
   }
+header.hero .hero-text {
+    margin-top: 30%;
+    margin-bottom: 10%;
+    padding: 0 20px;
+    text-align: center;
+  }
+
   header.hero h1 {
     font-size: 2em;
-    margin-top: 1.5em;
   }
+
   header.hero h3 {
     font-size: 1.2em;
-    line-height: 1.6em;
+  }
+
+  .hero .btn {
+    margin: 2em 0;
   }
   ul.social-links li.label {
     display: block;
