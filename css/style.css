@@ -75,7 +75,7 @@ a.menu:hover {
   -webkit-transform: translateX(-5px);
 }
 header.hero h1 {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Playfair Display', serif;
   font-size: 4em;
   font-weight: 600;
   line-height: 1.4em;
@@ -118,12 +118,12 @@ ul.social-links li a img {
 }
 h4.sub-heading {
   text-transform: uppercase;
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Playfair Display', serif;
   font-weight: 400;
   color: #4e4c58;
 }
 h1.heading {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Playfair Display', serif;
   font-weight: 400;
   color: #4e4c58;
   font-size: 3em;
@@ -237,7 +237,7 @@ h1.heading.pink:after {
 }
 .client-box p.tag {
   color: #d31f6d;
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Playfair Display', serif;
   margin-bottom: 1em;
 }
 .client-box a {
@@ -285,19 +285,19 @@ h1.heading.pink:after {
   min-height: 400px;
 }
 .testimonial-box h1 {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Playfair Display', serif;
   font-weight: 400;
   margin-top: 0;
   margin-bottom: 1em;
 }
 .testimonial-box p.name {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Playfair Display', serif;
   font-weight: 400;
   font-size: 1.2em;
   margin-bottom: 0;
 }
 .testimonial-box p.designation {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Playfair Display', serif;
   margin-bottom: 0;
 }
 .testimonial-box.yellow {
@@ -324,12 +324,12 @@ h1.heading.pink:after {
   margin-bottom: 4em;
 }
 .stat-box h1 {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Playfair Display', serif;
   font-weight: 600;
   font-size: 5.6em;
 }
 .stat-box h3 {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Playfair Display', serif;
   font-weight: 600;
   color: #4e4c58;
   font-size: 2em;
@@ -343,7 +343,7 @@ h1.heading.pink:after {
   padding: 6em;
 }
 .contact-banner h1 {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Playfair Display', serif;
   font-weight: 400;
   font-size: 3em;
   margin-top: 0;
@@ -357,7 +357,7 @@ h1.heading.pink:after {
   padding: 5em;
 }
 .footer h1 {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Playfair Display', serif;
   font-weight: 600;
   font-size: 3em;
   color: #a3a1ac;
@@ -390,7 +390,7 @@ h1.heading.pink:after {
   background-color: #322e45;
   padding: 2em;
   color: #a3a1ac;
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Playfair Display', serif;
   font-weight: 300;
 }
 .sub-footer p {
@@ -494,7 +494,7 @@ ul.main-nav li {
 }
 ul.main-nav li a {
   color: #d31f6d;
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Playfair Display', serif;
   font-size: 14px;
   text-transform: uppercase;
   padding: 5px 15px;
